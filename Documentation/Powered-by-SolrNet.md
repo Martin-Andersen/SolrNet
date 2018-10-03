@@ -18,3 +18,4 @@
  * http://www.libris.no/
  * [nopCommerce Search Plugin](http://shop.dev-partner.biz/nopcommerce-search-solr-plugin) (by [Dev-Partner.biz Team](http://dev-partner.biz/))
  * [UsadosCR](http://www.usados.cr) 
+ * https://www.ordbog.gyldendal.dk
