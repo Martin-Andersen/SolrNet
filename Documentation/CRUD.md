@@ -85,3 +85,4 @@ Additional information on committing and optimization considerations can be foun
 ### Rollback
 
 `Rollback()` rollbacks all add/deletes made to the index since the last commit. Note that this is nothing like the rollback of relational databases. See the [Solr wiki](http://wiki.apache.org/solr/UpdateXmlMessages#A.22rollback.22) for more information.
+Rollback is not supported in Solr Cloud mode.
